@@ -1,0 +1,15 @@
+.pie {
+    background-color: black;
+    color: chocolate;
+    text-align: center;
+}
+
+h3, span {
+    font-family: 'Festive', cursive;
+    font-size: 40px;
+}
+
+.normal {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
